@@ -16,5 +16,5 @@ Docker;
 
 ### My current projects:
 
-The card game on vue3 - https://card-game.ru/main
-diplom work on react/typescript - https://github.com/fixer400/diplom-shop
+The card game on vue3 - https://card-game.ru/main;
+diplom work on react/typescript - https://github.com/fixer400/diplom-shop;
